@@ -24,7 +24,7 @@ http://grampanchayat1.epizy.com
   
 Proficient in: Python, C
 
-Familiar with: PHP, MySQL, Java
+Familiar with: PHP, MySQL
 
 - 🎥 YouTube Channel
 Check out my YouTube channel @aicodeworld where I share my journey in Cyber Security, coding, and technology exploration.
