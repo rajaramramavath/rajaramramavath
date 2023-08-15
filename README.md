@@ -1,4 +1,3 @@
-
 - 👋 Hi! I'm @ramavathrajaram
 
   a passionate Cyber Security enthusiast currently pursuing 
@@ -9,7 +8,7 @@
  
 A Telegram bot designed to provide users with their personalized timetables upon request. This project demonstrates my proficiency in Python and automation, showcasing how I combine technology and practical solutions.
 
-3. Moodle Bot web page
+2. Moodle Bot web page
  
 This Moodle bot web page simplifies the process of accessing specific links within the Moodle platform. By creating this project, I was able to further develop my skills in automation and user-centric design.
 
