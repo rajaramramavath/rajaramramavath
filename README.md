@@ -18,7 +18,6 @@ http://moodlebot.rf.gd
 
 A website for a village community, demonstrating my capability in web development. This project allowed me to explore the basics of web technologies such as HTML, CSS, and JavaScript, while contributing to a local community initiative.
 
-http://grampanchayat1.epizy.com
 
 - 🌱 Languages
   
